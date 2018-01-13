@@ -1,0 +1,5 @@
+In python you can do web developement.
+In python you can make apps.
+In python you can make websites.
+In python you can use it for machine learning.
+In python you can use it for AI.
