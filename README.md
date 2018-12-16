@@ -1,2 +1,5 @@
 # files-and-exceptions
-My python programs which i am doing while studying from the chapter - files and exceptions 
+
+Python programs to read a file from the computer and how to handle them using exception block.
+
+
